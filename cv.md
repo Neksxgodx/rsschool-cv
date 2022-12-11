@@ -2,7 +2,7 @@
 *****
 
 [V.Braim](braim.PNG)
-***Contacts***
+*** Contacts ***
 
 Discord: Nexus#3443
 E-mail: nekxgodx@gmail.com
