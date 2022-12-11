@@ -9,21 +9,21 @@ E-mail: nekxgodx@gmail.com
 Tel: +375298409633
 *****
 
-*About myself:*
+* About myself: *
 
 I want to work Front-End Development in EPAM!
 
-*Code example*:
+* Code example *:
 
 *****
 
 
-***Work experience:***
+*** Work experience: ***
 <Nothing yet…>
 
 ******
 
-***Education and courses***:
+*** Education and courses ***:
 
 
 1.CS50 video course
@@ -31,7 +31,7 @@ I want to work Front-End Development in EPAM!
 
 *****
 
-***Language***:
+*** Language ***:
 English level - A1-A2
 Russian - native speaker 
 
