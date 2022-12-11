@@ -9,13 +9,11 @@ E-mail: nekxgodx@gmail.com
 Tel: +375298409633
 
 
-*******
-
-* About myself: *
+*** About myself *** 
 
 I want to work Front-End Development in EPAM!
 
-* Code example *:
+*** Code example ***:
 
 *****
 
