@@ -2,12 +2,14 @@
 *****
 
 [V.Braim](braim.PNG)
-*** Contacts ***
+
+**Contacts**
 
 Discord: Nexus#3443
 E-mail: nekxgodx@gmail.com
 Tel: +375298409633
 
+******
 
 *** About myself *** 
 
